@@ -1,0 +1,23 @@
+{
+  "name": "strava-api-app",
+  "version": "1.0.0",
+  "description": "Angular - Node.js Strava API app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ro4052/strava-api-app.git"
+  },
+  "author": "Frances Bromley & Ronan Graham",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Ro4052/strava-api-app/issues"
+  },
+  "homepage": "https://github.com/Ro4052/strava-api-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
